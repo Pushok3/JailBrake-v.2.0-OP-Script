@@ -1,4 +1,4 @@
-# JailBrake-v.2.0-OP-Script
+# JailBrake-v2.0-OP-Script
 
 I create a script with MacOS style for roblox jailbrake! This absolutely keyless and free!
 
